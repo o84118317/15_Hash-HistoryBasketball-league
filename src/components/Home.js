@@ -15,6 +15,8 @@ export default class Home extends Component {
 				teamNames
 			})))
 	}
+
+	
 	render() {
 
 		const { teamNames } = this.state 
